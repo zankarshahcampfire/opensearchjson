@@ -1,0 +1,96 @@
+// 20230613161047
+// https://education.nsw.gov.au/noticeboard-opportunities/2023/05/classroom-teacher9.feed.json
+
+{
+  "role": {
+    "id": "/content/cq:tags/main-education/staff-noticeboard/eoi-job-types/school-based-roles/classroom-teachers",
+    "label": "Classroom teacher"
+  },
+  "end_date": "2023-12-19T00:00:00+11:00",
+  "closing_date": "2023-06-13T16:00:00+10:00",
+  "start_date": null,
+  "date_submitted": "2023-05-29T11:12:28+10:00",
+  "operational_directorate": {
+    "id": "/content/cq:tags/main-education/staff-noticeboard/eoi-operational-directorate/regional-south",
+    "label": "Regional South"
+  },
+  "school_setting": {
+    "id": "/content/cq:tags/main-education/school-setting/regional-schools",
+    "label": "Regional schools"
+  },
+  "corporate_division": null,
+  "office_location": null,
+  "grade": null,
+  "incentive_details": null,
+  "audience_corporate": null,
+  "audience_school": {
+    "id": "/content/cq:tags/main-education/staff-noticeboard/eoi-job-types/school-based-roles/classroom-teachers",
+    "label": "Classroom teacher"
+  },
+  "classification": {
+    "id": "/content/cq:tags/main-education/staff-noticeboard/classification/p2",
+    "label": "P2"
+  },
+  "work_type": {
+    "id": "/content/cq:tags/main-education/staff-noticeboard/work-type/full-time",
+    "label": "Full time"
+  },
+  "work_type_fte": null,
+  "business_unit": [
+    {
+      "id": "/content/cq:tags/main-education/business-unit/nsw-public-school",
+      "label": "NSW public school"
+    }
+  ],
+  "school_type": [
+    {
+      "id": "/content/cq:tags/main-education/school-type/k-6-schools",
+      "label": "K to 6 schools"
+    },
+    {
+      "id": "/content/cq:tags/main-education/school-type/preschools",
+      "label": "Preschools"
+    }
+  ],
+  "learning_area": [
+    
+  ],
+  "criteria": "<ul>\r\n<li>Approval to teach K-6 with demonstrated ability to use evidence-based teaching practices to enhance student outcomes in Literacy and Numeracy</li>\r\n<li>Commitment to playing an active role in Aboriginal education and support the needs of Aboriginal students’ school wide</li>\r\n<li>Demonstrated ability to use effective Positive Behaviour for Learning strategies across the school and implement effective wellbeing programs</li>\r\n<li>Strong interpersonal skills with demonstrated ability to work collegially and collaboratively with colleagues and build authentic relationships with students, staff, and community members.&nbsp;</li>\r\n</ul>\r\n",
+  "about": "<p>Briar Road Public School is offering full time and part-time temporary classroom teaching and RFF positions, with a&nbsp;<b>negotiable starting date</b> until <b>29 December 2023.</b></p>\r\n",
+  "title": "Classroom Teacher",
+  "executive_summary": "Classroom teacher at Briar Road Public School ( K to 6 schools,Preschools )  in Regional South",
+  "based": "School",
+  "why_work_with_us": "<p>Briar Road Public School is situated in the regional south network. The school has 294 students enrolled and comprises of 3 support unit classes, an ASPECT school satellite class and a preschool. The school is culturally diverse with 41% Aboriginal and Torres Strait Islander students and 23% of students having a language background other than English. The school is a Positive Behaviour for Learning (PBL) school, and a place where staff, students and the community strive for excellence by creating a caring and safe learning community that encourages all to reach their potential. Teaching staff are heavily supported by a strong team environment and executive support. .</p>\r\n<p>Briar Road follows Explicit Direct Instruction teaching strategies in the classroom and staff are provided with Professional Learning opportunities to remain current in evidence based teaching practices. There is a strong staff collaboration and teaching staff are supported with ongoing development and improvement.&nbsp;For further information about our school, please visit our <a href=\"https://briarrd-p.schools.nsw.gov.au/\">School Website</a>.</p>\r\n",
+  "school_name": "Briar Road Public School",
+  "reason_for_vacancy": "",
+  "eligibility": "<p>Any DoE staff with a current Working with Children’s Check who are approved to teach K-6.</p>",
+  "id": "/content/main-education/en/home/noticeboard-opportunities/2023/05/classroom-teacher9",
+  "school_code": null,
+  "approved_to_teach": [
+    
+  ],
+  "willing_to_teach": [
+    
+  ],
+  "extension_opportunity": true,
+  "public": false,
+  "aboriginal_identified_role": false,
+  "remote_working": false,
+  "incentivised_role": false,
+  "submit_to_jobfeed": false,
+  "start_date_ASAP": true,
+  "how_to_apply": {
+    "phone": "46 255957",
+    "name": "Jessica Scott",
+    "application_details": "<p>Applicants are asked to submit an expression of interest (<b>two page limit</b>) addressing the selection criteria.</p>\r\n<p>Please also submit the EOI application form indicating two referees and endorsement from your Principal.</p>\r\n<p>Any interview or offer of employment is conditional on the outcome of the Working with Children Check and verification of qualifications.</p>\r\n",
+    "job_title": "Assistant Principal",
+    "email": "jessica.scott58@det.nsw.edu.au"
+  },
+  "more_information": [
+    {
+      "rel": "pdf",
+      "title": "EOI Application form",
+      "url": "/content/dam/main-education/en/home/noticeboard-opportunities/eoi-application-form-blank.pdf"
+    }
+  ]
+}
